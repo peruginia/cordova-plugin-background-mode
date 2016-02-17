@@ -3,7 +3,7 @@
   "version": "0.6.4",
   "description": "Cordova plugin to prevent the app from going to sleep in background.",
   "cordova": {
-    "id": "de.appplant.cordova.plugin.background-mode",
+    "id": "xdk.de.appplant.cordova.plugin.background-mode",
     "platforms": [
       "ios",
       "android",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/katzer/cordova-plugin-background-mode.git"
+    "url": "https://github.com/peruginia/cordova-plugin-background-mode.git"
   },
   "keywords": [
     "appplant",
