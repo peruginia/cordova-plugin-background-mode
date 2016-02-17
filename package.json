@@ -1,5 +1,5 @@
 {
-  "name": "de.appplant.cordova.plugin.background-mode",
+  "name": "xdk.de.appplant.cordova.plugin.background-mode",
   "version": "0.6.4",
   "description": "Cordova plugin to prevent the app from going to sleep in background.",
   "cordova": {
